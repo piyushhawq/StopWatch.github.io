@@ -1,4 +1,4 @@
 # StopWatch.github.io
 
 
-![Image of Piyush's resume](Piyush_Resume.png)
+![Preview  of Stopwatch](https://github.com/piyushhawq/StopwatchJS.github.io/blob/main/media/Stopwatch%20Preview.png)
