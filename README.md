@@ -1,1 +1,1 @@
-# Stopwatch.github.io
+# StopWatch.github.io
